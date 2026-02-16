@@ -1,0 +1,1322 @@
+[
+  {
+    "id": 1,
+    "slug": "filadel-fiya-unagi",
+    "title": "Филадельфия унаги",
+    "price": 450,
+    "category": "Роллы",
+    "description": "Состав: Нори, рис, сыр творожный, огурец, угорь, соус терияки, кунжут.",
+    "images": [
+      "./product-images/product-1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "roll-evropa",
+    "title": "Ролл \"Европа\"",
+    "price": 320,
+    "category": "Роллы",
+    "description": "Состав:нори,рис,лосось,икра масаго,сыр творожный,кунжут",
+    "images": [
+      "./product-images/product-2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "set-assorti",
+    "title": "Сет \"Ассорти\"",
+    "price": 1300,
+    "category": "Сеты",
+    "description": "Состав:Филадельфия,Калифорния,Тортилья чикен,Темпура бекон",
+    "images": [
+      "./product-images/product-3.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "zapechennaya-filadel-fiya",
+    "title": "Запеченная Филадельфия",
+    "price": 420,
+    "category": "Роллы",
+    "description": "Состав: рис, нори, творожный сыр, Лосось, сырная шапочка,огурец,кунжут,соус терияки",
+    "images": [
+      "./product-images/product-4.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "zapechyonnaya-kaliforniya",
+    "title": "Запечённая Калифорния",
+    "price": 340,
+    "category": "Роллы",
+    "description": "Состав: нори, рис, творожный сыр, икра мосаго, огурец, краб, сырная шапочка",
+    "images": [
+      "./product-images/product-5.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "opalennyj-cheder",
+    "title": "Опаленный чедер",
+    "price": 350,
+    "category": "Роллы",
+    "description": "Состав:рис,сыр творожный,нори,лосось,ананас,сыр чедер.",
+    "images": [
+      "./product-images/product-6.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "tempura-onigiri-s-kuritsej",
+    "title": "Темпура онигири с курицей",
+    "price": 440,
+    "category": "Роллы",
+    "description": "Состав:нори,рис,чесночный соус,творожный сыр,икра масаго,кляр,панировочные сухари,терияки,кунжут",
+    "images": [
+      "./product-images/product-7.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "roll-tempura-s-vetchinoj-zapechyonnaya",
+    "title": "Ролл темпура с ветчиной запечённая",
+    "price": 350,
+    "category": "Роллы",
+    "description": "Состав:нори,рис,кляр,панировочные сухари,творожный сыр,ветчина,огурец,сырная шапочка,соус кисло-сладкий чили.",
+    "images": [
+      "./product-images/product-8.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "set-klassika",
+    "title": "Сет \"Классика\"",
+    "price": 1250,
+    "category": "Сеты",
+    "description": "Ролл Филадельфия,Унаши Филадельфия,капа маки,калифорния",
+    "images": [
+      "./product-images/product-9.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "pitstsa-sladkij-ostrov",
+    "title": "Пицца Сладкий остров",
+    "price": 620,
+    "category": "Пицца",
+    "description": "Состав: Белый фирменный соус,ананасы,ветчина,курица,сыр моцарелла,соус сладкий чили,кунжут.",
+    "images": [
+      "./product-images/product-10.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "filadel-fiya-s-ananasom",
+    "title": "Филадельфия с ананасом",
+    "price": 430,
+    "category": "Роллы",
+    "description": "Норм,рис,творожный сыр,лосось,ананас",
+    "images": [
+      "./product-images/product-11.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "kesadiya-karbonara",
+    "title": "Кесадия \"Карбонара\"",
+    "price": 260,
+    "category": "Закуски",
+    "description": "Состав: Мексиканская лепёшка, фирменный соус, томаты, ветчина, сыр.",
+    "images": [
+      "./product-images/product-12.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "pitstsa-detskaya",
+    "title": "Пицца детская",
+    "price": 600,
+    "category": "Пицца",
+    "description": "Состав: сливочный сырный соус, томаты, сосиски, сыр чизбургер, картофель фри, сыр моцарелла.",
+    "images": [
+      "./product-images/product-13.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "kartofel-nye-shariki-s-syrom-i-halapen-yu",
+    "title": "Картофельные шарики с сыром и халапенью",
+    "price": 220,
+    "category": "Закуски",
+    "description": "Картофельные шарики с сыром и халапенью",
+    "images": [
+      "./product-images/product-14.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "shaurma-klassicheskaya",
+    "title": "Шаурма \"Классическая\"",
+    "price": 300,
+    "category": "Закуски",
+    "description": "Состав: Соус фирменный,томат,огурец,капуста маринованная,фри,курица,сыр.",
+    "images": [
+      "./product-images/product-15.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "apel-sin-dobryj",
+    "title": "Апельсин \"Добрый\"",
+    "price": 150,
+    "category": "Напитки",
+    "description": "Апельсин «Добрый» 1 литр",
+    "images": [
+      "./product-images/product-16.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "kola-dobryj",
+    "title": "Кола \"Добрый\"",
+    "price": 150,
+    "category": "Напитки",
+    "description": "Кола «Добрый» 1 литр",
+    "images": [
+      "./product-images/product-17.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "kombo-2",
+    "title": "КОМБО 2",
+    "price": 1060,
+    "category": "Сеты",
+    "description": "пицца гавайская,кола «Добрый» 1л,наггетсы,картофель фри",
+    "images": [
+      "./product-images/product-18.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "kombo-1",
+    "title": "Комбо 1",
+    "price": 1160,
+    "category": "Сеты",
+    "description": "пицца пепперони,картофель фри,филадельфия,кола «Добрый» 1 л",
+    "images": [
+      "./product-images/product-19.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "wow-chiken",
+    "title": "Wow “chiken”",
+    "price": 350,
+    "category": "Роллы",
+    "description": "Состав:нори,рис,творожный сыр, Помидор, огурец, курица, майонезный соус с соусом «Шрирача»,кунжут, соус барбекью.",
+    "images": [
+      "./product-images/product-20.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "hot-dog-roll-wow-crab",
+    "title": "хот дог ролл “Wow crab”",
+    "price": 380,
+    "category": "Роллы",
+    "description": "состав: рис,нори,творожный сыр,крабовое мясо,креветка,икра,огурец",
+    "images": [
+      "./product-images/product-21.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "hot-dog-roll-wow-fish",
+    "title": "хот-дог ролл “Wow fish”",
+    "price": 370,
+    "category": "Роллы",
+    "description": "Состав:нори,рис,творожный сыр,лосось,огурец,жареный лук,соус терияки",
+    "images": [
+      "./product-images/product-22.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "tortiliya-gavajskaya",
+    "title": "Тортилия \"Гавайская\"",
+    "price": 300,
+    "category": "Закуски",
+    "description": "Состав: Тортилья, творожный сыр, ананас, курица.",
+    "images": [
+      "./product-images/product-23.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "hot-dog-set-crazy",
+    "title": "хот-дог сет “crazy”",
+    "price": 1050,
+    "category": "Сеты",
+    "description": "Wow fish,Wow crab,Wow chiken.",
+    "images": [
+      "./product-images/product-24.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "set-rajskoe-naslazhdenie",
+    "title": "Сет \"Райское наслаждение\"",
+    "price": 1200,
+    "category": "Сеты",
+    "description": "Состав : ролл «Королевский»,ролл «Икура»,ролл «Темпура бекон» ,ролл «Лава с угрем»",
+    "images": [
+      "./product-images/product-25.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "roll-ikura",
+    "title": "Ролл \"Икура\"",
+    "price": 290,
+    "category": "Роллы",
+    "description": "Состав: Нори, рис, икра МАСАГО, сливочный сыр, лосось, огурец, чёрная икра.",
+    "images": [
+      "./product-images/product-26.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "roll-tempura-bekon",
+    "title": "Ролл \"Темпура бекон\"",
+    "price": 310,
+    "category": "Роллы",
+    "description": "Состав: Нори, рис, бекон, сливочный сыр, крабовое мясо, огурец, соус барбекью.",
+    "images": [
+      "./product-images/product-27.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "roll-korolevskij",
+    "title": "Ролл \" Королевский\"",
+    "price": 280,
+    "category": "Роллы",
+    "description": "Состав: Нори, рис, сыр сливочный, огурец, сырная шапочка, икра красная.",
+    "images": [
+      "./product-images/product-28.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "roll-lava-s-ugrem",
+    "title": "Ролл \"Лава с угрем\"",
+    "price": 320,
+    "category": "Роллы",
+    "description": "В состав: рис, нори, сливочный сыр, угорь, огурец, шапочка сырная.",
+    "images": [
+      "./product-images/product-29.jpg"
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "pitstsa-alya-tsezar",
+    "title": "пицца \"Аля-Цезарь\"",
+    "price": 620,
+    "category": "Пицца",
+    "description": "состав : соус цезарь, Сыр моцарелла, сыр пармезан, томаты, сухарики, пекинская капуста, Курица.",
+    "images": [
+      "./product-images/product-30.jpg"
+    ]
+  },
+  {
+    "id": 77,
+    "slug": "syrnye-palochki",
+    "title": "Сырные палочки.",
+    "price": 260,
+    "category": "Закуски",
+    "description": "\"Вес 150 грамм.",
+    "images": [
+      "./product-images/product-31.jpg"
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "zapechennyj-roll-chempion",
+    "title": "Запеченный ролл \"Чемпион\"",
+    "price": 360,
+    "category": "Роллы",
+    "description": "состав :нори,рис,сыр,креветка темпура,огурец,сырная шапочка",
+    "images": [
+      "./product-images/product-32.jpg"
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "pitstsa-riv-era",
+    "title": "Пицца \"Ривьера\"",
+    "price": 600,
+    "category": "Пицца",
+    "description": "Состав:Фирменный сливочный соус, ветчина, сервелат, томаты, маслины, орегано, сыр моцарелла",
+    "images": [
+      "./product-images/product-33.jpg"
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "roll-krispi-losos",
+    "title": "Ролл \"Криспи-Лосось\"",
+    "price": 330,
+    "category": "Роллы",
+    "description": "Состав: Рис,нори,лолось,огурец,лук фри,сырный соус,соус bbq.",
+    "images": [
+      "./product-images/product-34.jpg"
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "lapsha-wok-tsyplenok-teriyaki",
+    "title": "Лапша Wok \"Цыпленок-терияки\"",
+    "price": 390,
+    "category": "WOK",
+    "description": "Состав: лапша пшеничная, курица, морковь, болгарский перец, чеснок,лук, шампиньоны, соевый соус,соус терияки, кунжут.",
+    "images": [
+      "./product-images/product-35.jpg"
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "roll-tortil-ya-zapechennaya",
+    "title": "Ролл \"Тортилья запеченная\"",
+    "price": 350,
+    "category": "Роллы",
+    "description": "Состав: Мексиканская лепешка ,рис,курица,корнишоны,томат,сливочный сыр,соус васаби,сырная шапка.",
+    "images": [
+      "./product-images/product-36.jpg"
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "pitstsa-karbonara",
+    "title": "Пицца Карбонара",
+    "price": 620,
+    "category": "Пицца",
+    "description": "Состав: ветчина,бекон,яйцо,томаты,сыр моцарелла,итальянские травы,сырный соус.",
+    "images": [
+      "./product-images/product-37.jpg"
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "pitstsa-zhyul-en",
+    "title": "Пицца жюльен",
+    "price": 620,
+    "category": "Пицца",
+    "description": "Состав: соус ранч,цыпленок,карбонад, лук фри, сыр моцарелла, соус Васаби, шампиньоны,итальянские травы.",
+    "images": [
+      "./product-images/product-38.jpg"
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "roll-ebi-cheese-zapechyonnyj",
+    "title": "Roll Ebi Cheese(Запечённый)",
+    "price": 330,
+    "category": "Роллы",
+    "description": "Состав: нори, рис, творожный сыр, Креветка, ананас, сыр пластик Hochland , икра масаго, Сырная шапка, сырный соус.",
+    "images": [
+      "./product-images/product-39.jpg"
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "chicken-roll-zapechyonnyj",
+    "title": "Chicken Roll запечённый.",
+    "price": 320,
+    "category": "Роллы",
+    "description": "Состав:рис,нори,сыр творожный,огурец,курица,сырная шапочка,икра масаго,соус терияки.",
+    "images": [
+      "./product-images/product-40.jpg"
+    ]
+  },
+  {
+    "id": 40,
+    "slug": "zharenye-shampin-ony-v-panirovke",
+    "title": "Жареные шампиньоны в панировке",
+    "price": 250,
+    "category": "Закуски",
+    "description": "Жареные шампиньоны в панировке 150 г 250 руб. соус тар-тар.",
+    "images": [
+      "./product-images/product-41.jpg"
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "spring-rolly-s-kartofelem-syrom-i-gribami",
+    "title": "Spring роллы с картофелем сыром и грибами",
+    "price": 210,
+    "category": "Закуски",
+    "description": "Спринг роллы с картофелем сыром и грибами 150 грамм",
+    "images": [
+      "./product-images/product-42.jpg"
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "kartofel-nye-shariki-s-vetchinoj-i-syrom",
+    "title": "Картофельные шарики с ветчиной и сыром",
+    "price": 220,
+    "category": "Закуски",
+    "description": "Картофельные шарики с ветчиной и сыром",
+    "images": [
+      "./product-images/product-43.jpg"
+    ]
+  },
+  {
+    "id": 43,
+    "slug": "dopolnitel-nye-dobavki",
+    "title": "Дополнительные добавки",
+    "price": 30,
+    "category": "Дополнительно",
+    "description": "Соевый соус Васаби имбирь соус тар-тар соус сырный соус барбекью соус терияки соус кетчуп",
+    "images": [
+      "./product-images/product-44.jpg"
+    ]
+  },
+  {
+    "id": 44,
+    "slug": "roll-zapechyonnyj-s-ugryom",
+    "title": "Ролл запечённый с угрём",
+    "price": 340,
+    "category": "Роллы",
+    "description": "Угорь, рис, сыр сливочный, огурец, соус терияки, нори, кунжут. Вес 250 г",
+    "images": [
+      "./product-images/product-45.jpg"
+    ]
+  },
+  {
+    "id": 45,
+    "slug": "roll-zapechyonnyj-s-krabom",
+    "title": "Ролл запечённый с крабом",
+    "price": 310,
+    "category": "Роллы",
+    "description": "Крабовая смесь, рис, нори, сливочный сыр, огурец, икра, соус терияки, кунжут,сырная шапочка.",
+    "images": [
+      "./product-images/product-46.jpg"
+    ]
+  },
+  {
+    "id": 46,
+    "slug": "roll-zapechyonnyj-s-kuritsej",
+    "title": "Ролл запечённый с курицей",
+    "price": 300,
+    "category": "Роллы",
+    "description": "Нори, рис, курица копчёная, огурец, соус терияки, сыр, кунжут,сырная шапочка. Вес 250 гр",
+    "images": [
+      "./product-images/product-47.jpg"
+    ]
+  },
+  {
+    "id": 47,
+    "slug": "zapechyonnyj-roll-s-lososem",
+    "title": "Запечённый ролл с лососем.",
+    "price": 340,
+    "category": "Роллы",
+    "description": "Нори, рис, лосось, огурец,сырная шапочка. Вес 250 г",
+    "images": [
+      "./product-images/product-48.jpg"
+    ]
+  },
+  {
+    "id": 48,
+    "slug": "roll-grecheskij",
+    "title": "Ролл греческий",
+    "price": 240,
+    "category": "Роллы",
+    "description": "Нори, рис, огурец, болгарский перец, салат, томат, сыр. Вес 250 грамм",
+    "images": [
+      "./product-images/product-49.jpg"
+    ]
+  },
+  {
+    "id": 49,
+    "slug": "roll-banzaj",
+    "title": "Ролл банзай",
+    "price": 260,
+    "category": "Роллы",
+    "description": "Нори, рис, сыр, чука, курица копчёная. Вес 250 грамм",
+    "images": [
+      "./product-images/product-50.jpg"
+    ]
+  },
+  {
+    "id": 50,
+    "slug": "roll-voshod",
+    "title": "Ролл восход",
+    "price": 290,
+    "category": "Роллы",
+    "description": "Нори, рис, Масаго, Креветка, авокадо,творожный сыр. Вес 250 грамм.",
+    "images": [
+      "./product-images/product-51.jpg"
+    ]
+  },
+  {
+    "id": 51,
+    "slug": "roll-drakon",
+    "title": "Ролл дракон",
+    "price": 310,
+    "category": "Роллы",
+    "description": "\"Нори, рис,масаго, сыр, огурец, лосось, соус спайси.",
+    "images": [
+      "./product-images/product-52.jpg"
+    ]
+  },
+  {
+    "id": 54,
+    "slug": "pitstsa-ohotnich-i",
+    "title": "Пицца охотничьи",
+    "price": 1050,
+    "category": "Пицца",
+    "description": "\"Пряный томатный соус, охотничьи колбаски, огурец солёный, сладкий перец, сыр.",
+    "images": [
+      "./product-images/product-53.jpg"
+    ]
+  },
+  {
+    "id": 55,
+    "slug": "pitstsa-ohotnich-ya",
+    "title": "Пицца охотничья",
+    "price": 600,
+    "category": "Пицца",
+    "description": "\"Пряный томатный соус, охотничьи колбаски, огурец солёный, сладкий перец, сыр.",
+    "images": [
+      "./product-images/product-54.jpg"
+    ]
+  },
+  {
+    "id": 53,
+    "slug": "pitstsa-myasnaya-40-sm",
+    "title": "Пицца мясная 40 см",
+    "price": 1050,
+    "category": "Пицца",
+    "description": "Томатный соус, моцарелла, шампиньоны, пепперони, куриная грудка,карбонад.",
+    "images": [
+      "./product-images/product-55.jpg"
+    ]
+  },
+  {
+    "id": 56,
+    "slug": "pitstsa-meksikanskaya-40-sm",
+    "title": "Пицца мексиканская 40 см",
+    "price": 1080,
+    "category": "Пицца",
+    "description": "Томатный соус, цыплёнок, свежий шампиньоны, свежий болгарский перец, маринованный красный лук, свежие томаты, жгучие мексиканские перчики халапеньо.",
+    "images": [
+      "./product-images/product-56.jpg"
+    ]
+  },
+  {
+    "id": 57,
+    "slug": "pitstsa-vetchina-i-griby-40-sm",
+    "title": "Пицца ветчина и грибы 40 см",
+    "price": 1000,
+    "category": "Пицца",
+    "description": "Ветчина, шампиньоны, сыр моцарелла, грибной соус.",
+    "images": [
+      "./product-images/product-57.jpg"
+    ]
+  },
+  {
+    "id": 58,
+    "slug": "pitstsa-pepperoni-40-sm",
+    "title": "Пицца пепперони 40 см",
+    "price": 950,
+    "category": "Пицца",
+    "description": "Итальянские колбаски пепперони, сыр моцарелла, томатный соус.",
+    "images": [
+      "./product-images/product-58.jpg"
+    ]
+  },
+  {
+    "id": 59,
+    "slug": "pitstsa-tsyplyonok-barbek-yu-40-sm",
+    "title": "Пицца цыплёнок барбекью 40 см",
+    "price": 1050,
+    "category": "Пицца",
+    "description": "Цыплёнок, бекон, свежий красный лук, сыр моцарелла, томатный соус, соус барбекью.",
+    "images": [
+      "./product-images/product-59.jpg"
+    ]
+  },
+  {
+    "id": 61,
+    "slug": "set-soblazn",
+    "title": "Сет Соблазн.",
+    "price": 990,
+    "category": "Сеты",
+    "description": "\"Беби с курицей,Калифорния ,Филадельфия лайт.",
+    "images": [
+      "./product-images/product-60.jpg"
+    ]
+  },
+  {
+    "id": 64,
+    "slug": "pitstsa-tsyplenok-teriyaki",
+    "title": "Пицца Цыпленок терияки.",
+    "price": 1050,
+    "category": "Пицца",
+    "description": "\"Томатный соус,соус терияки,сыр моцарелла,цыпленок,ананас ,кунжут .",
+    "images": [
+      "./product-images/product-61.jpg"
+    ]
+  },
+  {
+    "id": 67,
+    "slug": "set-vecherinka",
+    "title": "Сет Вечеринка.",
+    "price": 1150,
+    "category": "Сеты",
+    "description": "\"Цезарь,Лава лайт,цыпа цитрус,темпура чикен.",
+    "images": [
+      "./product-images/product-62.jpg"
+    ]
+  },
+  {
+    "id": 68,
+    "slug": "set-na-dvoih",
+    "title": "Сет на двоих.",
+    "price": 800,
+    "category": "Сеты",
+    "description": "\"Кармен,Кремтте,Беби с курицей",
+    "images": [
+      "./product-images/product-63.jpg"
+    ]
+  },
+  {
+    "id": 69,
+    "slug": "set-miks",
+    "title": "Сет «Микс»",
+    "price": 1550,
+    "category": "Сеты",
+    "description": "\"Калифорния,Акаруй,Запеченный с лососем,Запеченный с угрем,Запеченный с крабом.",
+    "images": [
+      "./product-images/product-64.jpg"
+    ]
+  },
+  {
+    "id": 70,
+    "slug": "set-mechta",
+    "title": "Сет «Мечта»",
+    "price": 1250,
+    "category": "Сеты",
+    "description": "\"Бонито,я Филадельфия Классик,Калифорния,Акаруй.",
+    "images": [
+      "./product-images/product-65.jpg"
+    ]
+  },
+  {
+    "id": 71,
+    "slug": "roll-tortil-ya-ovoshchnoj-miks",
+    "title": "Ролл Тортилья овощной микс.",
+    "price": 270,
+    "category": "Роллы",
+    "description": "\"Лепешка,сыр,овощи.",
+    "images": [
+      "./product-images/product-66.jpg"
+    ]
+  },
+  {
+    "id": 72,
+    "slug": "roll-tortil-ya-chiken",
+    "title": "Ролл Тортилья чикен.",
+    "price": 320,
+    "category": "Роллы",
+    "description": "\"Лепешка,сыр,курица,огурец,помидор.",
+    "images": [
+      "./product-images/product-67.jpg"
+    ]
+  },
+  {
+    "id": 73,
+    "slug": "roll-tortil-ya-syake",
+    "title": "Ролл Тортилья Сяке.",
+    "price": 350,
+    "category": "Роллы",
+    "description": "\"Лепешка,лосось,сыр,огурец.",
+    "images": [
+      "./product-images/product-68.jpg"
+    ]
+  },
+  {
+    "id": 74,
+    "slug": "lukovye-kol-tsa",
+    "title": "Луковые кольца.",
+    "price": 170,
+    "category": "Закуски",
+    "description": "\"Вес 150 грамм.",
+    "images": [
+      "./product-images/product-69.jpg"
+    ]
+  },
+  {
+    "id": 75,
+    "slug": "kurinnye-naggetsy",
+    "title": "Куринные наггетсы.",
+    "price": 250,
+    "category": "Закуски",
+    "description": "\"Вес 150 грамм.",
+    "images": [
+      "./product-images/product-70.jpg"
+    ]
+  },
+  {
+    "id": 76,
+    "slug": "kartofel-fri",
+    "title": "Картофель фри.",
+    "price": 130,
+    "category": "Закуски",
+    "description": "\"Вес 100 грамм.",
+    "images": [
+      "./product-images/product-71.jpg"
+    ]
+  },
+  {
+    "id": 62,
+    "slug": "pitstsa-chetyre-syra-40-sm",
+    "title": "Пицца Четыре сыра 40 см",
+    "price": 1000,
+    "category": "Пицца",
+    "description": "Томатный соус,сливочный сыр,сыр моцарелла,пармезан,шарики моцарелла.",
+    "images": [
+      "./product-images/product-72.jpg"
+    ]
+  },
+  {
+    "id": 63,
+    "slug": "pitstsa-gavajskaya-40-sm",
+    "title": "Пицца Гавайская 40 см",
+    "price": 1050,
+    "category": "Пицца",
+    "description": "Ветчина, ананасы,сыр моцарелла ,томатный соус.",
+    "images": [
+      "./product-images/product-73.jpg"
+    ]
+  },
+  {
+    "id": 66,
+    "slug": "pitstsa-syrnyj-tsyplenok-40-sm",
+    "title": "Пицца Сырный цыпленок 40 см",
+    "price": 1050,
+    "category": "Пицца",
+    "description": "Цвпленок,томаты и сыр Моцарелла,сырный соцс.",
+    "images": [
+      "./product-images/product-74.jpg"
+    ]
+  },
+  {
+    "id": 78,
+    "slug": "roll-syrnyj-losos",
+    "title": "Ролл Сырный лосось.",
+    "price": 320,
+    "category": "Роллы",
+    "description": "\"Нори,рис,лосось,огурец,панировка,сыр.",
+    "images": [
+      "./product-images/product-75.jpg"
+    ]
+  },
+  {
+    "id": 79,
+    "slug": "roll-tempura-s-krevetkoj",
+    "title": "Ролл Темпура с креветкой.",
+    "price": 320,
+    "category": "Роллы",
+    "description": "\"Нори,рис,сыр,икра масаго,тигровые креветки.",
+    "images": [
+      "./product-images/product-76.jpg"
+    ]
+  },
+  {
+    "id": 80,
+    "slug": "roll-tempura-chiken",
+    "title": "Ролл Темпура чикен.",
+    "price": 290,
+    "category": "Роллы",
+    "description": "\"Нори,рис,курица,сыр,помидорка,панировка.",
+    "images": [
+      "./product-images/product-77.jpg"
+    ]
+  },
+  {
+    "id": 81,
+    "slug": "roll-bebi-s-kuritsej",
+    "title": "Ролл Беби с курицей.",
+    "price": 320,
+    "category": "Роллы",
+    "description": "\"Рис,Нори,курица,сыр,сырная шапочка.",
+    "images": [
+      "./product-images/product-78.jpg"
+    ]
+  },
+  {
+    "id": 82,
+    "slug": "set-zharennoe-trio",
+    "title": "Сет «Жаренное трио»",
+    "price": 900,
+    "category": "Сеты",
+    "description": "\"Сырный лосось,Темпура с креветкой,Темпура чикен.",
+    "images": [
+      "./product-images/product-79.jpg"
+    ]
+  },
+  {
+    "id": 83,
+    "slug": "kol-tsa-kal-mara",
+    "title": "Кольца кальмара.",
+    "price": 290,
+    "category": "Закуски",
+    "description": "\"Вес 150 грамм.",
+    "images": [
+      "./product-images/product-80.jpg"
+    ]
+  },
+  {
+    "id": 84,
+    "slug": "stripsy-kurinnye",
+    "title": "Стрипсы куринные.",
+    "price": 250,
+    "category": "Закуски",
+    "description": "\"Вес 150 грамм.",
+    "images": [
+      "./product-images/product-81.jpg"
+    ]
+  },
+  {
+    "id": 85,
+    "slug": "grenki-chesnochnye",
+    "title": "гренки чесночные.",
+    "price": 150,
+    "category": "Закуски",
+    "description": "\"Вес 150 грамм.",
+    "images": [
+      "./product-images/product-82.jpg"
+    ]
+  },
+  {
+    "id": 86,
+    "slug": "krylyshki-v-panirovke",
+    "title": "Крылышки в панировке.",
+    "price": 260,
+    "category": "Закуски",
+    "description": "\"Вес 150 грамм.",
+    "images": [
+      "./product-images/product-83.jpg"
+    ]
+  },
+  {
+    "id": 87,
+    "slug": "roll-gejsha",
+    "title": "Ролл Гейша.",
+    "price": 310,
+    "category": "Роллы",
+    "description": "\"Нори,рис,сыр,лосось,огурец.",
+    "images": [
+      "./product-images/product-84.jpg"
+    ]
+  },
+  {
+    "id": 88,
+    "slug": "roll-syake-maki",
+    "title": "Ролл Сяке маки.",
+    "price": 300,
+    "category": "Роллы",
+    "description": "\"Нори,рис,лосось.",
+    "images": [
+      "./product-images/product-85.jpg"
+    ]
+  },
+  {
+    "id": 89,
+    "slug": "roll-bonito",
+    "title": "Ролл Бонито.",
+    "price": 310,
+    "category": "Роллы",
+    "description": "\"Нори,рис,сыр,угорь,стружка тунца,огурец.",
+    "images": [
+      "./product-images/product-86.jpg"
+    ]
+  },
+  {
+    "id": 90,
+    "slug": "roll-kapa-maki",
+    "title": "Ролл Капа маки.",
+    "price": 150,
+    "category": "Роллы",
+    "description": "\"Нори,рис,огурец.",
+    "images": [
+      "./product-images/product-87.jpg"
+    ]
+  },
+  {
+    "id": 91,
+    "slug": "roll-akaruj",
+    "title": "Ролл Акаруй.",
+    "price": 300,
+    "category": "Роллы",
+    "description": "\"Нори,рис,огурец,сыр,кунжут,лосось.",
+    "images": [
+      "./product-images/product-88.jpg"
+    ]
+  },
+  {
+    "id": 92,
+    "slug": "roll-kaliforniya",
+    "title": "Ролл Калифорния.",
+    "price": 290,
+    "category": "Роллы",
+    "description": "Нори,рис,крабовый микс,огурец,икра масаго,сыр творожный",
+    "images": [
+      "./product-images/product-89.jpg"
+    ]
+  },
+  {
+    "id": 93,
+    "slug": "roll-filadel-fiya-klassik",
+    "title": "Ролл филадельфия классик.",
+    "price": 390,
+    "category": "Роллы",
+    "description": "\"Нори,рис,сыр,семга.",
+    "images": [
+      "./product-images/product-90.jpg"
+    ]
+  },
+  {
+    "id": 94,
+    "slug": "roll-tsypa-tsitrus",
+    "title": "Ролл цыпа цитрус.",
+    "price": 270,
+    "category": "Роллы",
+    "description": "\"Нори,рис,сыр,курица,апельсин,икра масаго.",
+    "images": [
+      "./product-images/product-91.jpg"
+    ]
+  },
+  {
+    "id": 95,
+    "slug": "roll-lava-lajt",
+    "title": "Ролл Лава лайт.",
+    "price": 310,
+    "category": "Роллы",
+    "description": "\"Нори,рис,филе курица,сыр,икра масаго,огурец.",
+    "images": [
+      "./product-images/product-92.jpg"
+    ]
+  },
+  {
+    "id": 96,
+    "slug": "roll-tsezar-s-syrom",
+    "title": "Ролл Цезарь с сыром.",
+    "price": 290,
+    "category": "Роллы",
+    "description": "\"Нори,рис,сыр,курица,огурец,помидор,плавленный сыр хохланд.",
+    "images": [
+      "./product-images/product-93.jpg"
+    ]
+  },
+  {
+    "id": 97,
+    "slug": "roll-kremette",
+    "title": "Ролл Креметте.",
+    "price": 260,
+    "category": "Роллы",
+    "description": "\"Нори,рис,огурец,сыр хохланд.",
+    "images": [
+      "./product-images/product-94.jpg"
+    ]
+  },
+  {
+    "id": 98,
+    "slug": "roll-karmen",
+    "title": "Ролл Кармен",
+    "price": 260,
+    "category": "Роллы",
+    "description": "\"Нори,рис,сыр,помидор,икра масаго,соус Лава .",
+    "images": [
+      "./product-images/product-95.jpg"
+    ]
+  },
+  {
+    "id": 99,
+    "slug": "roll-chetyre-syra",
+    "title": "Ролл четыре сыра.",
+    "price": 290,
+    "category": "Роллы",
+    "description": "\"Нори,рис,сыр,гауда,президент,сырный соус,пармезан.",
+    "images": [
+      "./product-images/product-96.jpg"
+    ]
+  },
+  {
+    "id": 100,
+    "slug": "roll-gavajskij",
+    "title": "Ролл Гавайский.",
+    "price": 310,
+    "category": "Роллы",
+    "description": "\"Нори,рис,сыр,курица,ананас,кунжут,сырная шапка.",
+    "images": [
+      "./product-images/product-97.jpg"
+    ]
+  },
+  {
+    "id": 101,
+    "slug": "krevetochnye-shariki-v-panirovke",
+    "title": "Креветочные шарики в панировке.",
+    "price": 330,
+    "category": "Закуски",
+    "description": "\"Вес 100 грамм.",
+    "images": [
+      "./product-images/product-98.jpg"
+    ]
+  },
+  {
+    "id": 102,
+    "slug": "kartofel-nye-shariki-s-syrom",
+    "title": "Картофельные шарики с сыром.",
+    "price": 210,
+    "category": "Закуски",
+    "description": "Вес 150 грамм.",
+    "images": [
+      "./product-images/product-99.jpg"
+    ]
+  },
+  {
+    "id": 103,
+    "slug": "palochki-kal-mara-v-panirovke",
+    "title": "Палочки кальмара в панировке.",
+    "price": 260,
+    "category": "Закуски",
+    "description": "Вес 100 грамм.",
+    "images": [
+      "./product-images/product-100.jpg"
+    ]
+  },
+  {
+    "id": 104,
+    "slug": "roll-maki-s-semgoj-i-avokado",
+    "title": "Ролл Маки с семгой и авокадо.",
+    "price": 310,
+    "category": "Роллы",
+    "description": "\"Нори,рис,сыр,семга,авокадо.",
+    "images": [
+      "./product-images/product-101.jpg"
+    ]
+  },
+  {
+    "id": 105,
+    "slug": "roll-in-yan",
+    "title": "Ролл Инь-янь",
+    "price": 310,
+    "category": "Роллы",
+    "description": "\"Нори,рис,свр,огурец,рыба,соус bbq.",
+    "images": [
+      "./product-images/product-102.jpg"
+    ]
+  },
+  {
+    "id": 106,
+    "slug": "roll-vulkan",
+    "title": "Ролл Вулкан",
+    "price": 300,
+    "category": "Роллы",
+    "description": "\"Нори,икра зеленая,сыр,лосось,шапка сырная+халапенью.",
+    "images": [
+      "./product-images/product-103.jpg"
+    ]
+  },
+  {
+    "id": 107,
+    "slug": "roll-chuka-s-kuritsej",
+    "title": "Ролл Чука с курицей",
+    "price": 270,
+    "category": "Роллы",
+    "description": "\"Нори,рис,сыр,курица,чука сверху.",
+    "images": [
+      "./product-images/product-104.jpg"
+    ]
+  },
+  {
+    "id": 108,
+    "slug": "roll-tortil-ya-zharenaya",
+    "title": "Ролл тортилья жареная",
+    "price": 330,
+    "category": "Роллы",
+    "description": "\"Лепешка сырная,курица,огурец,помидор,сыр чизбургер,сыр творожный",
+    "images": [
+      "./product-images/product-105.jpg"
+    ]
+  },
+  {
+    "id": 109,
+    "slug": "set-garmoniya",
+    "title": "Сет «гармония»",
+    "price": 2000,
+    "category": "Сеты",
+    "description": "Вес 1800 грамм.",
+    "images": [
+      "./product-images/product-106.jpg"
+    ]
+  },
+  {
+    "id": 110,
+    "slug": "krevetki-v-panirovke",
+    "title": "Креветки в панировке",
+    "price": 310,
+    "category": "Закуски",
+    "description": "100 грамм.",
+    "images": [
+      "./product-images/product-107.jpg"
+    ]
+  },
+  {
+    "id": 111,
+    "slug": "zharenye-palochki-mintaya",
+    "title": "Жареные палочки минтая",
+    "price": 260,
+    "category": "Закуски",
+    "description": "\"150 грамм.",
+    "images": [
+      "./product-images/product-108.jpg"
+    ]
+  },
+  {
+    "id": 52,
+    "slug": "pitstsa-s-krevetkami-40-sm",
+    "title": "Пицца с креветками 40 см",
+    "price": 1100,
+    "category": "Пицца",
+    "description": "Ананасы, креветки, орегано, соус белый, сыр моцарелла.",
+    "images": [
+      "./product-images/product-109.jpg"
+    ]
+  },
+  {
+    "id": 112,
+    "slug": "pitstsa-s-krevetkami-32-sm",
+    "title": "Пицца с креветками 32 см",
+    "price": 650,
+    "category": "Пицца",
+    "description": "Ананасы, креветки, орегано, соус белый, сыр моцарелла.",
+    "images": [
+      "./product-images/product-109.jpg"
+    ]
+  },
+  {
+    "id": 113,
+    "slug": "pitstsa-myasnaya-32-sm",
+    "title": "Пицца мясная 32 см",
+    "price": 620,
+    "category": "Пицца",
+    "description": "Томатный соус, моцарелла, шампиньоны, пепперони, куриная грудка, карбонад.",
+    "images": [
+      "./product-images/product-55.jpg"
+    ]
+  },
+  {
+    "id": 114,
+    "slug": "pitstsa-meksikanskaya-32-sm",
+    "title": "Пицца мексиканская 32 см",
+    "price": 600,
+    "category": "Пицца",
+    "description": "Томатный соус, цыплёнок, свежие шампиньоны, свежий болгарский перец, маринованный красный лук, свежий томаты, жгучий мексиканские перчики халапеньо.",
+    "images": [
+      "./product-images/product-56.jpg"
+    ]
+  },
+  {
+    "id": 115,
+    "slug": "pitstsa-vetchina-i-griby-32-sm",
+    "title": "Пицца ветчина и грибы 32 см",
+    "price": 600,
+    "category": "Пицца",
+    "description": "ветчина,шампиньоны,сыр Моцарелла,грибной соус.",
+    "images": [
+      "./product-images/product-57.jpg"
+    ]
+  },
+  {
+    "id": 116,
+    "slug": "pitstsa-pepperoni-32-sm",
+    "title": "Пицца пепперони 32 см",
+    "price": 570,
+    "category": "Пицца",
+    "description": "Итальянские колбаски пепперони, сыр моцарелла, томатный соус.",
+    "images": [
+      "./product-images/product-58.jpg"
+    ]
+  },
+  {
+    "id": 117,
+    "slug": "pitstsa-tsyplyonok-barbek-yu-32-sm",
+    "title": "Пицца цыплёнок барбекью 32 см",
+    "price": 600,
+    "category": "Пицца",
+    "description": "Цыплёнок, бекон, свежий красный лук, сыр моцарелла ,томатный соус, соус барбекью",
+    "images": [
+      "./product-images/product-59.jpg"
+    ]
+  },
+  {
+    "id": 60,
+    "slug": "pitstsa-margarita-40-sm",
+    "title": "Пицца Маргарита 40 см",
+    "price": 930,
+    "category": "Пицца",
+    "description": "Томаты ,орегано,сыр моцарелла томатный соус.",
+    "images": [
+      "./product-images/product-110.jpg"
+    ]
+  },
+  {
+    "id": 118,
+    "slug": "pitstsa-margarita-32-sm",
+    "title": "Пицца Маргарита 32 см",
+    "price": 530,
+    "category": "Пицца",
+    "description": "Томаты ,орегано ,сыр моцарелла ,томатный соус.",
+    "images": [
+      "./product-images/product-110.jpg"
+    ]
+  },
+  {
+    "id": 119,
+    "slug": "pitstsa-chetyre-syra-32-sm",
+    "title": "Пицца Четыре сыра 32 см",
+    "price": 600,
+    "category": "Пицца",
+    "description": "Томатный соус, сливочный сыр,сыр моцарелла ,пармезан, шарики моцарелла.",
+    "images": [
+      "./product-images/product-72.jpg"
+    ]
+  },
+  {
+    "id": 120,
+    "slug": "pitstsa-gavajskaya-32-sm",
+    "title": "Пицца Гавайская 32 см",
+    "price": 600,
+    "category": "Пицца",
+    "description": "Ветчина,ананасы,сыр моцарелла,томатный соус.",
+    "images": [
+      "./product-images/product-73.jpg"
+    ]
+  },
+  {
+    "id": 121,
+    "slug": "pitstsa-syrnyj-tsyplenok-32-sm",
+    "title": "Пицца Сырный цыпленок 32 см",
+    "price": 620,
+    "category": "Пицца",
+    "description": "Цыпленок,томаты и сыр Моцарелла,сырный соус.",
+    "images": [
+      "./product-images/product-74.jpg"
+    ]
+  }
+]
