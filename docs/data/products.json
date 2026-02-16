@@ -7,7 +7,7 @@
     "category": "Роллы",
     "description": "Состав: Нори, рис, сыр творожный, огурец, угорь, соус терияки, кунжут.",
     "images": [
-      "/product-images/product-1.jpg"
+      "product-images/product-1.jpg"
     ]
   },
   {
@@ -18,7 +18,7 @@
     "category": "Роллы",
     "description": "Состав:нори,рис,лосось,икра масаго,сыр творожный,кунжут",
     "images": [
-      "/product-images/product-2.jpg"
+      "product-images/product-2.jpg"
     ]
   },
   {
