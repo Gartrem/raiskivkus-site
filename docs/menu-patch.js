@@ -94,6 +94,14 @@
           next.price = 620;
         }
 
+        if (next.slug === "roll-ikura") {
+          next.price = 360;
+        }
+
+        if (next.slug === "dopolnitel-nye-dobavki") {
+          next.price = 40;
+        }
+
         return next;
       });
 
