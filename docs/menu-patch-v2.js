@@ -1,7 +1,7 @@
 (() => {
   const originalFetch = window.fetch.bind(window);
   const productsFile = "data/products.json";
-  const cacheVersion = "20260917-2";
+  const cacheVersion = "20260917-3";
 
   const addedProducts = [
     {
@@ -93,6 +93,10 @@
           next.slug === "pitstsa-chetyre-syra-32-sm"
         ) {
           next.price = 620;
+        }
+
+        if (next.slug === "pitstsa-s-krevetkami-32-sm") {
+          next.price = 700;
         }
 
         if (next.slug === "roll-ikura") {
